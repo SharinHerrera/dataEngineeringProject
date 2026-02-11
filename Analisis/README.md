@@ -1,0 +1,2 @@
+- Definir → Idea, necesidad, problema (Contextualización del cliente, contexto de la necesidad (Cómo se hace actualmente), formulación de la pregunta problema)
+- Alcance: Se debe incluir el hardware y el software que necesitamos para que nuestra base de datos que funcione (ejem: PowerBI etc.) y definir los módulos. (Se deben delimitar horario de trabajo, capital humano, entre otras cosas).
