@@ -1,0 +1,8 @@
+idUsuario,nombreUsuario,correoUsuario,celularUsuario,contrasena,estado,rol
+1,CAMILO QUINTERO,camilo.quintero@mail.com,3001025694,camiloquintero2025,activo,legislativo
+2,DANIEL URREA,daniel.urrea@mail.com,3105446897,danielurrea2025,activo,legislativo
+3,JUAN PABLO CARDONA,juanpablo.cardona@mail.com,3145221032,juanpablocardona2025,activo,legislativo
+4,JUANITA,juanita@mail.com,3109556478,juanita2025,activo,legislativo
+5,MATEO GRISALES,mateo.grisales@mail.com,3156249932,mateogrisales2025,activo,general
+6,VALENTINA RODRIGUEZ,valentina.rodriguez@mail.com,3215493828,valentinarodriguez2025,activo,general
+7,VALENTINA SOSSA,valentina.sossa@mail.com,3021025624,valentinasossa2025,activo,general
